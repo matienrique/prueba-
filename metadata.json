@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Simulador de ahorros para Prosumidores EPE",
+  "description": "Herramienta para calcular ahorros energéticos y simular escenarios para Prosumidores y No Prosumidores en la red eléctrica.",
+  "requestFramePermissions": []
+}
